@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hexagon-menu/static/css/main.b441bfb5.css",
+    "main.js": "/hexagon-menu/static/js/main.08676cf2.js",
+    "static/js/453.9d0337b3.chunk.js": "/hexagon-menu/static/js/453.9d0337b3.chunk.js",
+    "static/media/fira-sans-latin-ext-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-latin-ext-500-normal.3fd7c90b8c02daed3490.woff2",
+    "static/media/fira-sans-latin-ext-500-normal.woff": "/hexagon-menu/static/media/fira-sans-latin-ext-500-normal.64929b28f6781aba8862.woff",
+    "static/media/fira-sans-latin-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-latin-500-normal.c065cb9219097023abb6.woff2",
+    "static/media/fira-sans-latin-500-normal.woff": "/hexagon-menu/static/media/fira-sans-latin-500-normal.e5ed11a629116799d445.woff",
+    "static/media/fira-sans-cyrillic-ext-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-cyrillic-ext-500-normal.b0cabda2ce257d7edc6f.woff2",
+    "static/media/fira-sans-cyrillic-ext-500-normal.woff": "/hexagon-menu/static/media/fira-sans-cyrillic-ext-500-normal.da219baf707150776f2e.woff",
+    "static/media/fira-sans-greek-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-greek-500-normal.b2d3be414318070023ae.woff2",
+    "static/media/fira-sans-greek-500-normal.woff": "/hexagon-menu/static/media/fira-sans-greek-500-normal.9f2cbaab249ff296dc0b.woff",
+    "static/media/fira-sans-cyrillic-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-cyrillic-500-normal.cb70635be2e362080efc.woff2",
+    "static/media/fira-sans-cyrillic-500-normal.woff": "/hexagon-menu/static/media/fira-sans-cyrillic-500-normal.c3976334353e4d8704e9.woff",
+    "static/media/fira-sans-vietnamese-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-vietnamese-500-normal.1f6cff35174c85c10ed5.woff2",
+    "static/media/fira-sans-greek-ext-500-normal.woff2": "/hexagon-menu/static/media/fira-sans-greek-ext-500-normal.d0607fe678a90b94ceae.woff2",
+    "static/media/fira-sans-greek-ext-500-normal.woff": "/hexagon-menu/static/media/fira-sans-greek-ext-500-normal.8b9466dd10ae21698d93.woff",
+    "static/media/fira-sans-vietnamese-500-normal.woff": "/hexagon-menu/static/media/fira-sans-vietnamese-500-normal.da08bc9335441896338b.woff",
+    "index.html": "/hexagon-menu/index.html",
+    "main.b441bfb5.css.map": "/hexagon-menu/static/css/main.b441bfb5.css.map",
+    "main.08676cf2.js.map": "/hexagon-menu/static/js/main.08676cf2.js.map",
+    "453.9d0337b3.chunk.js.map": "/hexagon-menu/static/js/453.9d0337b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b441bfb5.css",
+    "static/js/main.08676cf2.js"
+  ]
+}
